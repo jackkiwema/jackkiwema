@@ -1,9 +1,10 @@
 # Hi 👋
 
-I'm Jack, System Administrator at [Zoom Fibre](https://zoomfibre.co.ke/).
+I'm Jack, Full stack developer
 
 ## My Projects 
-* [Splynx demo](https://demo.splynx.com/), jumpstart demo splynx to management with tailored resources.
+* [task management](https://task.jackkiwema.com/)
+* [finance](https://finance.jackkiwema.com/)
 
 ## Contact Me
 
