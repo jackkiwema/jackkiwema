@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Jack, Full stack developer
+I'm Jack, Systems Engineer
 
 ## My Projects 
 * [task management](https://task.jackkiwema.com/)
@@ -8,4 +8,4 @@ I'm Jack, Full stack developer
 
 ## Contact Me
 
-You can reach me at <jackkiwema@gmail.com>.
+You can reach me on [twitter](https://twitter.com/jokseth/).
